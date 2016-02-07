@@ -1,4 +1,4 @@
-package hu.tonkol.data.vistox.common.download;
+package hu.tonkol.data.vistox.download;
 
 import org.testng.annotations.Test;
 

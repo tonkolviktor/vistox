@@ -1,4 +1,4 @@
-package hu.tonkol.data.vistox.common.download;
+package hu.tonkol.data.vistox.download;
 
 import hu.tonkol.data.vistox.common.BusinessException;
 
